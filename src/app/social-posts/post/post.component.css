@@ -1,0 +1,8 @@
+.left{
+    flex:1;
+}
+
+.item{
+    display: flex;  
+  }
+ 

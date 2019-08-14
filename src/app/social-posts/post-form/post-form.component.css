@@ -1,0 +1,20 @@
+form{
+    padding: 20px;
+    display: flex;
+    border-radius: 5px;
+    flex-direction: column;
+    background: #B1DDEA;
+    border: 3px solid black;
+    
+}
+.box{
+    height: 300px;;
+}
+.white{
+    background: white;
+    border-radius: 5px;
+    border: 3px solid black;
+    width: 90%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
